@@ -3,7 +3,7 @@ __Personal information__
 *last name: Miroshnikau
 
 __Contacts__
-*phone number: 29 7098442
+*phone number: 29 3899091
 *email: miroshnikausv@gmail.com
 *city: Minsk
 
